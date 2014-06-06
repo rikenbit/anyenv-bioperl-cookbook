@@ -1,2 +1,2 @@
 name "anyenv-bioperl-cookbook"
-version "0.1.0"
+version "0.1.1"
